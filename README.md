@@ -50,7 +50,7 @@ Built a **React-based social media platform** with **post interactions, comments
 ### 🎯 **Let's Connect**
 📫 Email: [rajataha062@gmail.com](mailto:rajataha062@gmail.com)  
 🔗 LinkedIn: [Muhammad Taha](https://www.linkedin.com/in/raja-taha/)  
-💼 Portfolio: [muhammadtaha.dev](https://rajataha.vercel.app)  
+💼 Portfolio: [Muhammad Taha](https://rajataha.vercel.app)  
 
 ---
 
