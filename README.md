@@ -1,8 +1,3 @@
-![image](https://github.com/user-attachments/assets/1f7133cd-f92f-4537-87cc-68473fda762d)<!-- Banner Image (Optional) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/raja-taha/raja-taha/main/banner.png" alt="Muhammad Taha - Full Stack Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi there! 👋 I'm Muhammad Taha</h1>
 
 <p align="center">
