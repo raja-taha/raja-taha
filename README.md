@@ -1,6 +1,6 @@
 <!-- Banner Image (Optional) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TahaZahidKhan/TahaZahidKhan/main/banner.png" alt="Muhammad Taha - Full Stack Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/raja-taha/raja-taha/main/banner.png" alt="Muhammad Taha - Full Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Muhammad Taha</h1>
@@ -53,19 +53,19 @@ Built a **React-based social media platform** with **post interactions, comments
 ---
 
 ### 🎯 **Let's Connect**
-📫 Email: [muhammadtaha.dev@gmail.com](mailto:muhammadtaha.dev@gmail.com)  
-🔗 LinkedIn: [Muhammad Taha](https://www.linkedin.com/in/muhammad-taha-dev/)  
-💼 Portfolio: [muhammadtaha.dev](https://muhammadtaha.dev)  
+📫 Email: [rajataha062@gmail.com](mailto:rajataha062@gmail.com)  
+🔗 LinkedIn: [Muhammad Taha](https://www.linkedin.com/in/raja-taha/)  
+💼 Portfolio: [muhammadtaha.dev](https://rajataha.vercel.app)  
 
 ---
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaZahidKhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raja-taha&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaZahidKhan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-taha&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
